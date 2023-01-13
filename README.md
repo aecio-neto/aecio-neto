@@ -13,7 +13,7 @@ Atualmente, tenho aprendindo bastante sobre os fundamentos da linguagem javascri
 ### 🚀 O que vem pela frente em 2023
 Tailwind | Typescript | MUI | Styled Components | ReactJS
 
-### 📫 onde me encontrar 
+### 📫 Onde me encontrar 
 
 [Site Pessoal](https://aecioneto.com.br/) |
 [Linkedin](https://linkedin.com/in/aecio-neto) |
