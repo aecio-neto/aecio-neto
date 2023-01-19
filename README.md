@@ -11,7 +11,7 @@ HTML | CSS | Javascript | Bootstrap | Git
 Atualmente, tenho aprendindo bastante sobre os fundamentos da linguagem javascript. E também estou cursando o [CS50x Harvard](https://pll.harvard.edu/course/cs50-introduction-computer-science).
 
 ### 🏗️ Projeto em andamento
-[Lista de Tarefas com Tailwind](https://github.com/aecio-neto/Portfolio/tree/main/3%20-%20intermediate/03%20-%20To-do%20List%20(Tailwind))
+[Lista de Tarefas com Tailwind](https://github.com/aecio-neto/Portfolio/tree/main/3%20-%20intermediate/03%20-%20To-do%20List%202.0)
 
 ### ✅ Último projeto feito
 [Conversor de moedas](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/02%20-%20Conversor%20de%20moedas)
