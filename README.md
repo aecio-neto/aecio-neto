@@ -5,7 +5,7 @@ Meu contato com desenvolvimento web começou quando vendi um site sem nunca ter 
 Com o conhecimento adquirido, atendi clientes de vários setores diferentes e desenvolvi projetos pessoais. Hoje, estou focado em construir aplicações web e busco uma vaga de desenvolvedor front-end.
 
 ### 💻 Stack
-HTML | CSS | Javascript | Bootstrap | Git
+HTML | CSS | Javascript | Tailwind | Bootstrap | Git
 
 ### 📚 O que estou aprendendo
 Atualmente, tenho aprendindo bastante sobre os fundamentos da linguagem javascript. E também estou cursando o [CS50x Harvard](https://pll.harvard.edu/course/cs50-introduction-computer-science).
