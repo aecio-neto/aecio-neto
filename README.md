@@ -11,8 +11,7 @@ HTML | CSS | Javascript | Tailwind | Bootstrap | Git
 Atualmente, tenho aprendindo bastante sobre os fundamentos da linguagem javascript. E também estou cursando o [CS50x Harvard](https://pll.harvard.edu/course/cs50-introduction-computer-science).
 
 ### 🏗️ Projeto em andamento
-[CineShow App] (https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/03%20-%20cineShow%20app)
-[CineShow App](https://github.com/aecio-neto/Portfolio/tree/main/3%20-%20intermediate/03%20-%20To-do%20List%202.0)
+[CineShow App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/03%20-%20cineShow%20app)
 
 ### ✅ Último projeto feito
 [Lista de Tarefas com Tailwind](https://github.com/aecio-neto/Portfolio/tree/main/3%20-%20intermediate/03%20-%20To-do%20List%202.0)
