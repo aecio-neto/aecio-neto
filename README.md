@@ -16,7 +16,7 @@ HTML | CSS | Javascript | Tailwind | Bootstrap | npm | Git | SEO | Marketing
 Estou me concentrando em aprender os fundamentos do JavaScript, para garantir uma base sólida na linguagem e escrever um código limpo e eficiente. Você pode ver o tenho feito no [Portfolio](https://github.com/aecio-neto/Portfolio)
 
 ### 🚀 O que vem pela frente em 2023
-MERN Stack | Next.js| Typescript | MUI | Styled Components 
+MERN Stack | Typescript | MUI | Styled Components | CS50
 
 ### 📫 Onde me encontrar 
 
