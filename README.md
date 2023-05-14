@@ -6,14 +6,14 @@ Olá, sou um desenvolvedor frontend em transição de carreira, com 7 anos de ex
 HTML | CSS | Javascript | Tailwind | Bootstrap | npm | Git | SEO | Marketing
 
 ### 🏗️ Projeto em produção
-[CineShow App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/03%20-%20cineShow%20app) - Últimos ajustes
+[CineShow App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/03%20-%20cineShow%20app) - Fazendo os últimos ajustes.
 
 ### ✅ Últimos projetos feitos
 
-[CineShow App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/03%20-%20cineShow%20app)
-[Lista de Tarefas com Tailwind](https://github.com/aecio-neto/Portfolio/tree/main/3%20-%20intermediate/03%20-%20To-do%20List%202.0)
-[Conversor de Moedas](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/02%20-%20Conversor%20de%20moedas)
-[Weather App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/01%20-%20weather-app)
+- [CineShow App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/03%20-%20cineShow%20app)
+- [Lista de Tarefas com Tailwind](https://github.com/aecio-neto/Portfolio/tree/main/3%20-%20intermediate/03%20-%20To-do%20List%202.0)
+- [Conversor de Moedas](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/02%20-%20Conversor%20de%20moedas)
+- [Weather App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/01%20-%20weather-app)
 
 ### 📚 Estudos
 
