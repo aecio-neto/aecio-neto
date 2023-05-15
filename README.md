@@ -10,17 +10,17 @@ HTML | CSS | Javascript | Tailwind | Bootstrap | npm | Git | SEO | Marketing
 
 ### ✅ Últimos projetos feitos
 
-- [CineShow App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/03%20-%20cineShow%20app)
-- [Lista de Tarefas com Tailwind](https://github.com/aecio-neto/Portfolio/tree/main/3%20-%20intermediate/03%20-%20To-do%20List%202.0)
+- [CineShow App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/03%20-%20cineShow%20app) - Fetch API | Async/Await | Roteamento | Controle de Estado | Página Dinâmicas | Manipulação DOM
+- [Lista de Tarefas com Tailwind](https://github.com/aecio-neto/Portfolio/tree/main/3%20-%20intermediate/03%20-%20To-do%20List%202.0) - Tailwind | Manipulação DOM | Local Storage
 - [Conversor de Moedas](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/02%20-%20Conversor%20de%20moedas)
 - [Weather App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/01%20-%20weather-app)
 
 ### 📚 Estudos
 
-Estou me concentrando em aprender os fundamentos do JavaScript, para garantir uma base sólida na linguagem e escrever um código limpo e eficiente. Você pode ver o tenho feito no [Portfolio](https://github.com/aecio-neto/Portfolio)
+Estou me concentrando em aprender os fundamentos do JavaScript, para garantir uma base sólida na linguagem e escrever um código limpo e eficiente. Você pode ver o que tenho feito no [Portfolio](https://github.com/aecio-neto/Portfolio)
 
 ### 🚀 O que vem pela frente em 2023
-MERN Stack | Typescript | MUI | Styled Components | CS50
+React | Typescript | NextJS| MUI | Styled Components | CS50
 
 ### 📫 Onde me encontrar 
 
