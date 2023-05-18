@@ -6,7 +6,7 @@ Olá, sou um desenvolvedor frontend em transição de carreira, com 7 anos de ex
 HTML | CSS | Javascript | Tailwind | Bootstrap | npm | Git | SEO | Marketing
 
 ### 🏗️ Projeto em produção
-[Tracalorie App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/04%20-%20tracalorie_app)
+[Tracalorie App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/04%20-%20tracalorie_app) - Programação Orientada a Objetos | Controle de Estado | Manipulação do DOM | LocalStorage
 
 ### ✅ Últimos projetos feitos
 
