@@ -12,8 +12,8 @@ HTML | CSS | Javascript | Tailwind | Bootstrap | npm | Git | SEO | Marketing
 
 - [CineShow App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/03%20-%20cineShow%20app) - Fetch API | Async/Await | Roteamento | Controle de Estado | Página Dinâmicas | Manipulação DOM
 - [Lista de Tarefas com Tailwind](https://github.com/aecio-neto/Portfolio/tree/main/3%20-%20intermediate/03%20-%20To-do%20List%202.0) - Tailwind | Manipulação DOM | Local Storage
-- [Conversor de Moedas](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/02%20-%20Conversor%20de%20moedas)
-- [Weather App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/01%20-%20weather-app)
+- [Conversor de Moedas](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/02%20-%20Conversor%20de%20moedas) - Fetch API | Async/Await
+- [Weather App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/01%20-%20weather-app) - Fetch API | Async/Await
 
 ### 📚 Estudos
 
