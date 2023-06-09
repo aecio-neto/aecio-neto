@@ -6,10 +6,11 @@ Olá, sou um desenvolvedor frontend em transição de carreira, com 7 anos de ex
 HTML | CSS | Javascript | Tailwind | Bootstrap | npm | Git | SEO | Marketing
 
 ### 🏗️ Projeto em produção
-[Track Calorie App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/04%20-%20tracalorie_app) - Programação Orientada a Objetos | Controle de Estado | Manipulação do DOM | LocalStorage
+- Track Calorie Concluído. Avaliando novo projeto. 
 
 ### ✅ Últimos projetos feitos
 
+- [Track Calorie App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/04%20-%20tracalorie_app) - Programação Orientada a Objetos | Controle de Estado | Manipulação do DOM | LocalStorage
 - [CineShow App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/03%20-%20cineShow%20app) - Fetch API | Async/Await | Roteamento | Controle de Estado | Página Dinâmicas | Manipulação DOM
 - [Lista de Tarefas com Tailwind](https://github.com/aecio-neto/Portfolio/tree/main/3%20-%20intermediate/03%20-%20To-do%20List%202.0) - Tailwind | Manipulação DOM | Local Storage
 - [Conversor de Moedas](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/02%20-%20Conversor%20de%20moedas) - Fetch API | Async/Await
