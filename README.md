@@ -1,6 +1,6 @@
 ### 👋 Sobre 
 
-Desenvolvedor frontend em transição de carreira, com 8 anos de experiência em ecommerce e marketing digital, incluindo anúncios, páginas de captura e ferramentas de análise de dados. Minha experiência me permite criar páginas atraentes, intuitivas e otimizadas para mecanismos de busca.
+Desenvolvedor frontend com habilidades em projetos Javascript e conhecimentos em desenvolvimento de negócios obtidos ao longo de oito anos empreendendo. Tenho experiência em ecommerce e marketing digital, páginas de captura, ferramentas de análise de dados e SEO. O que me permite a criar páginas atraentes, intuitivas e otimizadas para mecanismos de busca. 
 
 ### 💻 Stack
 Experiência com:
