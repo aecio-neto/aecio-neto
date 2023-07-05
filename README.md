@@ -1,15 +1,26 @@
 ### 👋 Sobre 
 
-Olá, sou um desenvolvedor frontend em transição de carreira, com 7 anos de experiência em ecommerce (negócio próprio). Tenho conhecimentos em marketing digital, incluindo anúncios, páginas de captura e ferramentas de análise de dados, como Google Analytics e Google Tag Manager. Minha experiência me permite criar páginas atraentes, intuitivas e otimizadas para mecanismos de busca. Recentemente, decidi me aprofundar nos estudos de desenvolvimento de software e, aqui, compartilho um pouco do que tenho desenvolvido.
+Desenvolvedor frontend em transição de carreira, com 8 anos de experiência em ecommerce e marketing digital, incluindo anúncios, páginas de captura e ferramentas de análise de dados. Minha experiência me permite criar páginas atraentes, intuitivas e otimizadas para mecanismos de busca.
 
 ### 💻 Stack
-Javascript, Tailwind, Bootstrap, SEO, Acessibilidade
+Experiência com:
+- Javascript 
+- Git/Github
+- HTML/CSS
+- Tailwind / Bootstrap
+- SEO
+- Acessbilidade
+- Metodologias ágeis
 
-### 🏗️ Projeto em produção
-- [Mural de Reflexões](https://github.com/aecio-neto/reflection-board) - Node.js/Express REST API, MongoDB, Mongoose, Webpack
+Outras habilidades
+- Responsável, capaz de tomar iniciativas e solucionar problemas.
+- Curioso, autodidata e sempre em busca de aprendizado contínuo.
+- Pensamento estratégico e experiência no desenvolvimento de negócios (8 anos empreendendo).
+
+### 🏗️ Projeto em desenvolvimento
+- [Mural de Ideias](https://github.com/aecio-neto/reflection-board) - Projeto fullstac utilizando Node.js/Express REST API, MongoDB, Mongoose, Webpack
 
 ### ✅ Últimos projetos feitos
-
 - [Track Calorie App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/04%20-%20tracalorie_app) - Programação Orientada a Objetos | Controle de Estado | Manipulação do DOM | LocalStorage
 - [CineShow App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/03%20-%20cineShow%20app) - Fetch API | Async/Await | Roteamento | Controle de Estado | Página Dinâmicas | Manipulação DOM
 - [Lista de Tarefas com Tailwind](https://github.com/aecio-neto/Portfolio/tree/main/3%20-%20intermediate/03%20-%20To-do%20List%202.0) - Tailwind | Manipulação DOM | Local Storage
