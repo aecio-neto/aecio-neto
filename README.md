@@ -27,10 +27,6 @@ Outras habilidades
 - [Conversor de Moedas](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/02%20-%20Conversor%20de%20moedas) - Fetch API | Async/Await
 - [Weather App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/01%20-%20weather-app) - Fetch API | Async/Await
 
-### 📚 Estudos
-
-Estou me concentrando em aprender os fundamentos do JavaScript, para garantir uma base sólida na linguagem e escrever um código limpo e eficiente. Você pode ver o que tenho feito no [Portfolio](https://github.com/aecio-neto/Portfolio)
-
 ### 🚀 O que vem pela frente em 2023
 React | Typescript | Next.js | MUI | Styled Components | CS50
 
