@@ -18,9 +18,10 @@ Outras habilidades
 - Pensamento estratégico e experiência no desenvolvimento de negócios (8 anos empreendendo).
 
 ### 🏗️ Projeto em desenvolvimento
-- [Mural de Ideias](https://github.com/aecio-neto/reflection-board) - Projeto fullstac utilizando Node.js/Express REST API, MongoDB, Mongoose, Webpack
+- React Projects - Pequenos projetos em React criados com o objetivo de ajudar no entendimento e prática dos fundamentos dessa biblioteca Javascript.
 
 ### ✅ Últimos projetos feitos
+- [Mural de Ideias](https://github.com/aecio-neto/reflection-board) - Projeto fullstac utilizando Node.js/Express REST API, MongoDB, Mongoose, Webpack
 - [Track Calorie App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/04%20-%20tracalorie_app) - Programação Orientada a Objetos | Controle de Estado | Manipulação do DOM | LocalStorage
 - [CineShow App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/03%20-%20cineShow%20app) - Fetch API | Async/Await | Roteamento | Controle de Estado | Página Dinâmicas | Manipulação DOM
 - [Lista de Tarefas com Tailwind](https://github.com/aecio-neto/Portfolio/tree/main/3%20-%20intermediate/03%20-%20To-do%20List%202.0) - Tailwind | Manipulação DOM | Local Storage
