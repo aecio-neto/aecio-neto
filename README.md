@@ -18,7 +18,7 @@ Outras habilidades
 - Pensamento estratégico e experiência no desenvolvimento de negócios (8 anos empreendendo).
 
 ### 🏗️ Projeto em desenvolvimento
-- React Projects - Pequenos projetos em React criados com o objetivo de ajudar no entendimento e prática dos fundamentos dessa biblioteca Javascript.
+- [React Projects](https://github.com/aecio-neto/react-projects) - Pequenos projetos em React criados com o objetivo de ajudar no entendimento e prática dos fundamentos dessa biblioteca Javascript.
 
 ### ✅ Últimos projetos feitos
 - [Mural de Ideias](https://github.com/aecio-neto/reflection-board) - Projeto fullstac utilizando Node.js/Express REST API, MongoDB, Mongoose, Webpack
