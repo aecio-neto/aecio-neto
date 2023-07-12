@@ -1,6 +1,6 @@
 ### 👋 Sobre 
 
-Desenvolvedor frontend com habilidades em projetos Javascript e conhecimentos em desenvolvimento de negócios obtidos ao longo de oito anos empreendendo. Tenho experiência em ecommerce e marketing digital, páginas de captura, ferramentas de análise de dados e SEO. O que me permite a criar páginas atraentes, intuitivas e otimizadas para mecanismos de busca. 
+Desenvolvedor frontend com habilidades em projetos Javascript e conhecimentos em desenvolvimento de negócios obtidos ao longo de oito anos empreendendo. Tenho experiência em ecommerce, marketinge SEO. O que me permite criar páginas atraentes, intuitivas e otimizadas para mecanismos de busca. E também pensar no negócio e gerar valor para o cliente. 
 
 ### 💻 Stack
 Experiência com:
@@ -33,6 +33,5 @@ React | Typescript | Next.js | MUI | Styled Components | CS50
 
 ### 📫 Onde me encontrar 
 
-[Site Pessoal](https://aecioneto.com.br/) |
-[Linkedin](https://linkedin.com/in/aecio-neto) |
-[Youtube](https://www.youtube.com/channel/UCwZvlGDcLmzXmsSOtM3lT3g)
+[Site Pessoal](https://aecioneto.com.br/) (desatualizado) |
+[Linkedin](https://linkedin.com/in/aecio-neto)
