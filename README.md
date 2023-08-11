@@ -4,14 +4,13 @@ Desenvolvedor frontend com habilidades em projetos Javascript e conhecimentos em
 
 ### 💻 Stack
 Experiência com:
+- HTML/CSS
 - Javascript 
 - React
-- Git/Github
-- HTML/CSS
 - Tailwind / Bootstrap
+- Git/Github
+- Scrum/Kanban
 - SEO
-- Acessbilidade
-- Metodologias ágeis
 
 Outras habilidades
 - Responsável, capaz de tomar iniciativas e solucionar problemas.
