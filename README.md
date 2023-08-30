@@ -4,12 +4,12 @@ Desenvolvedor frontend com habilidades em projetos Javascript e conhecimentos em
 
 ### 💻 Stack
 Experiência com:
-- HTML/CSS
-- Javascript 
 - React
-- Tailwind / Bootstrap
+- Javascript 
+- HTML + CSS
+- Tailwind + Bootstrap
 - Git/Github
-- Scrum/Kanban
+- Metodologias ágeis Scrum+Kanban
 - SEO
 
 Outras habilidades
@@ -18,9 +18,11 @@ Outras habilidades
 - Pensamento estratégico e experiência no desenvolvimento de negócios (8 anos empreendendo).
 
 ### 🏗️ Projeto em desenvolvimento
-- [Results Summary UI](https://github.com/aecio-neto/react-results-summary-ui-component) - Interface que mostra o resultado de um teste feito pelo usuário. (Feito com: React, Taiwind, Postcss, JSON Server)
+
 
 ### ✅ Últimos projetos feitos
+- [Results Summary UI](https://github.com/aecio-neto/react-results-summary-ui-component) - (React, Taiwind, Postcss, JSON Server)
+- [Pizza Menu UI](https://github.com/aecio-neto/pizza-menu) - React
 - [Mural de Ideias](https://github.com/aecio-neto/reflection-board) - Projeto fullstac utilizando Node.js/Express REST API, MongoDB, Mongoose, Webpack
 - [Track Calorie App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/04%20-%20tracalorie_app) - Programação Orientada a Objetos | Controle de Estado | Manipulação do DOM | LocalStorage
 - [CineShow App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/03%20-%20cineShow%20app) - Fetch API | Async/Await | Roteamento | Controle de Estado | Página Dinâmicas | Manipulação DOM
@@ -33,5 +35,5 @@ React | Typescript | Next.js | MUI | Styled Components | CS50
 
 ### 📫 Onde me encontrar 
 
-[Site Pessoal](https://aecioneto.com.br/) (desatualizado) |
-[Linkedin](https://linkedin.com/in/aecio-neto)
+- [Site Pessoal](https://aecioneto.com.br/) (desatualizado) |
+- [Linkedin](https://linkedin.com/in/aecio-neto)
