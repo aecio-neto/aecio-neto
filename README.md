@@ -18,7 +18,7 @@ Outras habilidades
 - Pensamento estratégico e experiência no desenvolvimento de negócios (8 anos empreendendo).
 
 ### 🏗️ Projeto em desenvolvimento
-- [React Newsletter Signup Form](https://github.com/aecio-neto/react-newsletter-signup-form) 
+- [React hub](https://github.com/aecio-neto/reactHub) - Repositório unificado para múltiplos projetos React, onde pequenas aplicações podem crescer e prosperar.
 
 ### ✅ Últimos projetos feitos
 - [Results Summary UI](https://github.com/aecio-neto/react-results-summary-ui-component) - React | Taiwind | Postcss | JSON Ser |er
