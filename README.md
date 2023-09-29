@@ -19,7 +19,7 @@ Outras habilidades
 
 ### 🏗️ Projeto em destaque
 - [Track Calorie App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/04%20-%20tracalorie_app) - Programação Orientada a Objetos | Controle de Estado | Manipulação do DOM | LocalStorage
-- [CineShow App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/03%20-%20cineShow%20app) - Javascript | Fetch API | Async/Await | Roteamento | Controle de Estado | Página Dinâmicas | Manipulação DOM
+- [CineShow App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/03%20-%20cineShow%20app) - Javascript | Fetch API | Async/Await | Roteamento | Controle de Estado | Páginas Dinâmicas | Manipulação DOM
 - [Lista de Tarefas com Tailwind](https://github.com/aecio-neto/Portfolio/tree/main/3%20-%20intermediate/03%20-%20To-do%20List%202.0) - Javascript | Tailwind | Dark Mode | Mobile First 
 
 ### ✅ Últimos projetos feitos
