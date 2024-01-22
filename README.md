@@ -5,13 +5,14 @@ Frontend developer with ability for JavaScript projects and business development
 ### 💻 Stack
 Experienced with:
 
-React
-JavaScript
-HTML + CSS
-Tailwind + Bootstrap
-Git/Github
-Agile methodologies Scrum+Kanban
-SEO
+- React
+- Next
+- JavaScript
+- HTML + CSS
+- Tailwind + Bootstrap
+- Git/Github
+- Agile methodologies Scrum+Kanban
+- SEO
 
 Other skills:
 Responsible, capable of taking initiative and solving problems.
