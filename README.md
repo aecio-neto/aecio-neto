@@ -19,12 +19,13 @@ Curious, self-taught, and always seeking continuous learning.
 Strategic thinking and business development experience (8 years of entrepreneurship).
 
 ### 🏗️ Featured Project
-- [Interactive Comment Section](https://github.com/aecio-neto/Interactive-comments-section) - React | CSS custom properties | Mobile-first workflow
+- [Portfolio/Blog Pessoal](https://aecio-blog.vercel.app/) - Next.JS | React| CSS Modules | Vercel | Static Site Generation (SSG)
 - [Track Calorie App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/04%20-%20tracalorie_app) - OOP | State Management | DOM Manipulation | LocalStorage
-- [CineShow App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/03%20-%20cineShow%20app) - avaScript | Fetch API | Async/Await | Routing | State Management | Dynamic Pages | DOM Manipulation
+- [CineShow App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/03%20-%20cineShow%20app) - JavaScript | Fetch API | Async/Await | Routing | State Management | Dynamic Pages | DOM Manipulation
 - [Reflection Board](https://github.com/aecio-neto/reflection-board) - Fullstack project using Node.js/Express REST API, MongoDB, Mongoose, Webpack
 
 ### ✅ Recent Projects
+- [Interactive Comment Section](https://github.com/aecio-neto/Interactive-comments-section) - React | CSS custom properties | Mobile-first workflow
 - [Results Summary UI](https://github.com/aecio-neto/react-results-summary-ui-component) - React | Taiwind | Postcss | JSON Ser |er
 - [Pizza Menu UI](https://github.com/aecio-neto/pizza-menu) - React
 - [Tailwind Todo List](https://github.com/aecio-neto/Portfolio/tree/main/3%20-%20intermediate/03%20-%20To-do%20List%202.0) - Javascript | Tailwind | Dark Mode | Mobile First 
