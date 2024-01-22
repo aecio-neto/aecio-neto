@@ -37,8 +37,8 @@ Strategic thinking and business development experience (8 years of entrepreneurs
 React | Syled Components | CSS Modules
 
 ### 🚀 Up Next
-MUI | CS50 | Next.js | Ruby |
+ABC - Aways be coding | MUI | SSG | SSR
 
 ### 📫 Where to Find Me
-- [Site Pessoal](https://aecioneto.com.br/) (desatualizado)
+- [Site Pessoal](https://aecio-blog.vercel.app/) (Em construção)
 - [Linkedin](https://linkedin.com/in/aecio-neto)
