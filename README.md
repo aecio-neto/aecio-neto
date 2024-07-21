@@ -26,8 +26,9 @@ Strategic thinking and business development experience (8 years of entrepreneurs
 - [Reflection Board](https://github.com/aecio-neto/reflection-board) - Fullstack project using Node.js/Express REST API, MongoDB, Mongoose, Webpack
 
 ### ✅ Recent Projects
+- [Ecommerce Product Page](https://github.com/aecio-neto/ecommerce-product-page) - React | Tailwind
 - [Interactive Comment Section](https://github.com/aecio-neto/Interactive-comments-section) - React | CSS custom properties | Mobile-first workflow
-- [Results Summary UI](https://github.com/aecio-neto/react-results-summary-ui-component) - React | Taiwind | Postcss | JSON Ser |er
+- [Results Summary UI](https://github.com/aecio-neto/react-results-summary-ui-component) - React | Taiwind | Postcss | JSON
 - [Pizza Menu UI](https://github.com/aecio-neto/pizza-menu) - React
 - [Tailwind Todo List](https://github.com/aecio-neto/Portfolio/tree/main/3%20-%20intermediate/03%20-%20To-do%20List%202.0) - Javascript | Tailwind | Dark Mode | Mobile First 
 - [Currency Converter](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/02%20-%20Conversor%20de%20moedas) - Vanilla JavaScript | Fetch API | Async/Await
