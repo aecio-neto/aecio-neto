@@ -26,6 +26,7 @@ Strategic thinking and business development experience (8 years of entrepreneurs
 - [Reflection Board](https://github.com/aecio-neto/reflection-board) - Fullstack project using Node.js/Express REST API, MongoDB, Mongoose, Webpack
 
 ### ✅ Recent Projects
+- [REST Countries API](https://github.com/aecio-neto/rest-countries-app) - React Router | fetch API | Mobile-first workflow
 - [Ecommerce Product Page](https://github.com/aecio-neto/ecommerce-product-page) - React | Tailwind
 - [Interactive Comment Section](https://github.com/aecio-neto/Interactive-comments-section) - React | CSS custom properties | Mobile-first workflow
 - [Results Summary UI](https://github.com/aecio-neto/react-results-summary-ui-component) - React | Taiwind | Postcss | JSON
