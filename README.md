@@ -20,6 +20,7 @@ Curious, self-taught, and always seeking continuous learning.
 Strategic thinking and business development experience (8 years of entrepreneurship).
 
 ### 🏗️ Featured Project
+- [Painel Administrativo Ecommerce](https://github.com/aecio-neto/desksa) - React Router | Redux | Material UI
 - [Portfolio/Blog Pessoal](https://aecio-blog.vercel.app/) - Next.JS | React| CSS Modules | Vercel | Static Site Generation (SSG)
 - [Track Calorie App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/04%20-%20tracalorie_app) - OOP | State Management | DOM Manipulation | LocalStorage
 - [CineShow App](https://github.com/aecio-neto/Portfolio/tree/main/4%20-%20advanced/03%20-%20cineShow%20app) - JavaScript | Fetch API | Async/Await | Routing | State Management | Dynamic Pages | DOM Manipulation
