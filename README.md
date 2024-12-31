@@ -7,6 +7,7 @@ Experienced with:
 
 - React
 - Next
+- PHP
 - JavaScript
 - HTML + CSS
 - Tailwind + Bootstrap
