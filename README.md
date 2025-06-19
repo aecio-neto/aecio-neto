@@ -1,6 +1,6 @@
 ### 👋 About 
 
-Frontend developer with ability for JavaScript projects and business development insights gained over eight years of entrepreneurship. I have experience in e-commerce, marketing, and SEO, enabling me to craft appealing, intuitive pages optimized for search engines, while also considering the business aspect to deliver value to clients.
+Frontend developer with ability for JavaScript projects and business development gained over eight years of entrepreneurship. I have experience in e-commerce, marketing, and SEO, enabling me to craft appealing, intuitive pages optimized for search engines, while also considering the business aspect to deliver value to clients.
 
 ### 💻 Stack
 Experienced with:
